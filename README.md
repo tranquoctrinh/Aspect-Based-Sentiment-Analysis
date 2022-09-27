@@ -1,2 +1,2 @@
-# absa_project
+# Aspect-Based-Sentiment-Analysis
 Aspect Based Sentiment Analysis
